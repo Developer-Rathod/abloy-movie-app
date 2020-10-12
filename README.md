@@ -1,4 +1,9 @@
+## ASSA ABLOY - PRE-ASSIGNMENT 
+
+Write a simple application that provides movie suggestions for a user based on their movie genre preference. You can choose tools and libraries that you use yourself. Provide a REST API for this.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
