@@ -1,0 +1,25 @@
+.movie_header {
+  height: 500px;
+  background-position: center center;
+  background-size: cover;
+}
+.movie__content {
+  padding-top: 150px;
+  margin-left: 30px;
+  height: 150px;
+  color: #fff;
+}
+.movie__title {
+  font-family: Payfair Displays;
+  font-size: 40px;
+  color: #fff;
+  padding-bottom: 20px;
+}
+.movie__description {
+  max-width: 350px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.3);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-height: 200px;
+}
